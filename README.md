@@ -19,7 +19,7 @@ This Python keylogger records and logs keystrokes on a system, saving them to a 
 
 This keylogger uses the pynput library to monitor keyboard inputs. Install it using pip:
    ```bash
-   pip install pynput
+   pip3 install pynput
 
-   python keylogger.py
+   python3 keylogger.py
 
