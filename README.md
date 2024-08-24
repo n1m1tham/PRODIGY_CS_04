@@ -21,4 +21,5 @@ This keylogger uses the pynput library to monitor keyboard inputs. Install it us
    ```bash
    pip install pynput
 
-   cd PRODIGY_CS_04
+   python keylogger.py
+
