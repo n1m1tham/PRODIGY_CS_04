@@ -18,7 +18,7 @@ This Python keylogger records and logs keystrokes on a system, saving them to a 
    cd PRODIGY_CS_04
 
 This keylogger uses the pynput library to monitor keyboard inputs. Install it using pip:
-   
+   ```bash
    pip install pynput
-	
-   python keylogger.py
+
+   cd PRODIGY_CS_04
